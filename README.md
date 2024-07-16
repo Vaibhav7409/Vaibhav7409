@@ -1,7 +1,7 @@
 ![logo](https://github.com/Vaibhav7409/Vaibhav7409/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vaibhav Kr. Singh</h1>
 <h3 align="center">A passionate Flutter developer</h3>
--👋 Hi, I’m Vaibhav Kr. Singh.<br>-👀 I’m interested in Flutter Development & AI.<br>-🌱 I’m currently learning Flutter Development<br>-👨‍💻 I’m currently Working on Quick Foodie.<br>-🤝 I’m looking to collaborate on App Development<br>- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/i-am-vaibhav">LinkedIn</a><br>-📫 How to reach me:.@vaibhavv.kr.singh@gmail.com<br>⚡ Fun fact: I love video games.
+-👋 Hi, I’m Vaibhav Kr. Singh.<br>-👀 I’m interested in Flutter Development & AI.<br>-🌱 I’m currently learning Flutter Development<br>-👨‍💻 I’m currently Working on Quick Foodie.<br>-🤝 I’m looking to collaborate on App Development<br>- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/i-am-vaibhav">LinkedIn</a><br>-📫 How to reach me:  <a href="mailto:vaibhavv.kr.singh@gmail.com">vaibhavv.kr.singh@gmail.com</a><br>⚡ Fun fact: I love video games.
 
 
 
@@ -19,6 +19,7 @@
 <a href="https://www.instagram.com/i.m.vaibhavv" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m.vaibhavv" height="30" width="40" /> </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
