@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="coding" width="600" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav7409&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav7409" /> </p>
 
