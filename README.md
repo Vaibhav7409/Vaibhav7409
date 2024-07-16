@@ -4,8 +4,7 @@
 -👋 Hi, I’m Vaibhav Kr. Singh.<br>-👀 I’m interested in Flutter Development & AI.<br>-🌱 I’m currently learning Flutter Development<br>-👨‍💻 I’m currently Working on Quick Foodie.<br>-🤝 I’m looking to collaborate on App Development<br>- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/i-am-vaibhav">LinkedIn</a><br>-📫 How to reach me:  <a href="mailto:vaibhavv.kr.singh@gmail.com">vaibhavv.kr.singh@gmail.com</a><br>⚡ Fun fact: I love video games.
 
 
-
-<img align="right" alt="coding" width="600" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">                                                         
+                                                      
 <img align="right" alt="animated gif" width="600" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
 
