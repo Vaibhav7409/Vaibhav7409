@@ -1,7 +1,7 @@
 ![logo](https://github.com/Vaibhav7409/Vaibhav7409/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vaibhav Kr. Singh</h1>
 <h3 align="center">A passionate Flutter developer</h3>
--👋 Hi, I’m Vaibhav Kr. Singh.<br>-👀 I’m interested in Flutter Development & AI.<br>-🌱 I’m currently learning Flutter Development<br>-👨‍💻 I’m currently Working on Quick Foodie.<br>-🤝 I’m looking to collaborate on App Development<br>- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/vaibhav-singh-ab011a200">LinkedIn</a><br>-📫 How to reach me vaibhavv.kr.singh@gmail.com<br>⚡ Fun fact: I love video games.
+-👋 Hi, I’m Vaibhav Kr. Singh.<br>-👀 I’m interested in Flutter Development & AI.<br>-🌱 I’m currently learning Flutter Development<br>-👨‍💻 I’m currently Working on Quick Foodie.<br>-🤝 I’m looking to collaborate on App Development<br>- 👨‍💻 All of my projects are available at <a href="https://www.linkedin.com/in/i-am-vaibhav">LinkedIn</a><br>-📫 How to reach me:.@vaibhavv.kr.singh@gmail.com<br>⚡ Fun fact: I love video games.
 
 
 
