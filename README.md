@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Vaibhav7409/Vaibhav7409/blob/main/banner.png" alt="Banner" />
+  <img src="https://github.com/Vaibhav7409/Vaibhav7409/blob/main/Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#4e9af1">Vaibhav Kr. Singh</span> 👋</h1>
